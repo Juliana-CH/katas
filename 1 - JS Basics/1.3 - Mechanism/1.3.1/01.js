@@ -3,7 +3,7 @@
 
 const isGreatherThan5 = (number) => {
   // 👇🏻 Añade tu lógica aquí
-  // 👆🏻
+  // 👆🏻JHJJHJHHJHS
 };
 
 console.log(isGreatherThan5(3)); // "MENOR"
